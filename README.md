@@ -1,5 +1,5 @@
 ### Hello there 👋
-#About me: 
+#About.me: 
 My name is Leo, I am a first year bachelor's student in physics at Ecole Polytechnique Fédérale de Lausanne (EPFL). I love science, especially applied science. I like to combine it with programming using different numerical methods for creating simulations. I always want to learn both new ways to solve problems and new programming features.
 
 <!--
