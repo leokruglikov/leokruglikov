@@ -1,4 +1,11 @@
-### Hi there 👋
+![..](https://github.com/leokruglikov/leokruglikov/blob/main/352042.png)
+### Hello there 👋
+# About me: 
+My name is Leo, I am a first year bachelor's student in physics at Ecole Polytechnique Fédérale de Lausanne (EPFL). I love science, especially applied science. I like to combine it with programming using different numerical methods for creating simulations. I always want to learn both new ways to solve problems and new programming features.
+
+:computer: [linkedn](www.linkedin.com/in/leo-kruglikov-47b028150)
+
+:email: Mail: leo.kruglikov@gmail.com
 
 <!--
 **leokruglikov/leokruglikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
