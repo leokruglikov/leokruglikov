@@ -1,7 +1,21 @@
 ![..](https://github.com/leokruglikov/leokruglikov/blob/main/352042nn.jpg)
 ### Hello there 👋
-# About me: 
-My name is Leo, I am a second year bachelor's student in physics at Ecole Polytechnique Fédérale de Lausanne (EPFL). I love science, especially applied science. I like to combine it with programming using different numerical methods for creating simulations. I always want to learn both new ways to solve problems and new programming features.
+## About me: 
+My name is Leo, I am a Physics major from EPFL, Switzerland. A programming enthousiast, I am captivated with the idea of solving almost any science problem with programming. Obsessed with the idea that ~~almost~~ all world problems can be simulated on a computer. 
+Apart being a Physics major, I am a self-taught programmer and yet pursuing my own computer science way. I always want to learn both new ways to solve problems and new, high performance programming features. 
+- 📍Lausanne, Switzerland
+- ⚠️ Arch Linux
+
+
+#### Experience:
+- 💥 CERN data analyst
+- 🙏 :arrow_right: More to come
+- ♦️ Browse through my rep's
+
+### Other types of interest:
+- GPGPU and high performace programming
+- Computational physics and mathematics
+- Blockchain
 
 :computer: [linkedn](www.linkedin.com/in/leo-kruglikov-47b028150)
 
