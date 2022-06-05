@@ -19,7 +19,7 @@ Apart being a Physics major, I am a self-taught programmer and yet pursuing my o
 
 :computer: [linkedn](www.linkedin.com/in/leo-kruglikov-47b028150)
 
-:email: Mail: leo.kruglikov@gmail.com
+:email: Mail: leokruglikoff@proton.me
 
 <!--
 **leokruglikov/leokruglikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
