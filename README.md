@@ -19,7 +19,7 @@ Apart being a Physics major, I am a self-taught programmer and yet pursuing my o
 - Computational physics and mathematics
 - Blockchain
 
-:computer: [linkedn](www.linkedin.com/in/leo-kruglikov-47b028150)
+:computer: [linkedin](www.linkedin.com/in/leo-kruglikov-47b028150)
 
 :email: Mail: leokruglikoff@proton.me
 
