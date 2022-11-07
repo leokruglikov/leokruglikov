@@ -8,6 +8,8 @@ Apart being a Physics major, I am a self-taught programmer and yet pursuing my o
 
 
 #### Experience:
+- :bulb: Electrical engineer @EPFL Xplore
+- 💻 Software engineer at IBA - proton therapy. Robotics and positioning.
 - 💥 CERN data analyst
 - 🙏 :arrow_right: More to come
 - ♦️ Browse through my rep's
