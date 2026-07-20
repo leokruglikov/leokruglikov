@@ -16,7 +16,7 @@ Apart being a Physics major, I am a self-taught programmer and yet pursuing my o
 
 :email: Mail: leokruglikoff@proton.me
 
-:computer: Blog: blog.leokrglv.net 
+:computer: Blog: [blog.leokrglv.net](https://blog.leokrglv.net/) 
 <!--
 **leokruglikov/leokruglikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
